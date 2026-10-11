@@ -39,7 +39,7 @@ export default function Navbar() {
             </div>
             <div>
               <span className="font-extrabold text-slate-900 tracking-tight text-lg">
-                Civic<span className="text-blue-600">Pulse</span> <span className="text-xs px-1.5 py-0.5 rounded bg-blue-100 text-blue-700 font-bold uppercase tracking-wider ml-1">AI</span>
+                Civic<span className="text-blue-600">Sense</span> 
               </span>
               <p className="text-[10px] text-slate-500 font-medium hidden sm:block">Municipal Complaint & Resolution System</p>
             </div>

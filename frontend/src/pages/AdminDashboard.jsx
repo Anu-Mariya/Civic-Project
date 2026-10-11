@@ -156,7 +156,6 @@ export default function AdminDashboard() {
         <div className="space-y-2">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold border border-emerald-400/30">
             <ShieldCheck className="w-4 h-4 text-emerald-300" />
-            <span>Module 4: Municipal Administration Console</span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-black tracking-tight">
             Civic Grievance Triage & Resolution Hub

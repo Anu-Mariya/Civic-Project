@@ -33,7 +33,6 @@ export default function Login() {
     }
   };
 
-  // Quick Demo Account Autofill for MCA viva evaluation
   const setDemoCitizen = () => {
     setEmail('rahul.sharma@example.com');
     setPassword('Citizen@123');
@@ -60,11 +59,9 @@ export default function Login() {
         </div>
       )}
 
-      {/* Quick Demo Autofill Toolbar */}
       <div className="p-3 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
         <div className="flex items-center gap-1.5 text-[11px] font-bold text-slate-600">
           <Sparkles className="w-3.5 h-3.5 text-amber-500" />
-          <span>Quick Demo Autofill (Academic Viva):</span>
         </div>
         <div className="flex gap-2">
           <button
@@ -73,13 +70,6 @@ export default function Login() {
             className="flex-1 py-1.5 px-2 bg-white hover:bg-blue-50 hover:text-blue-700 border border-slate-200 text-slate-700 rounded-lg text-xs font-semibold transition-colors"
           >
             Citizen Demo
-          </button>
-          <button
-            type="button"
-            onClick={setDemoAdmin}
-            className="flex-1 py-1.5 px-2 bg-white hover:bg-emerald-50 hover:text-emerald-700 border border-slate-200 text-slate-700 rounded-lg text-xs font-semibold transition-colors"
-          >
-            Admin Demo
           </button>
         </div>
       </div>

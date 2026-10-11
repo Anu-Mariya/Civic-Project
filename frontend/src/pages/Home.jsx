@@ -82,7 +82,6 @@ export default function Home() {
             </Link>
           </div>
 
-          {/* Quick Stats Pill */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-3xl mx-auto pt-10 border-t border-slate-800/80 text-left">
             <div className="p-3 bg-slate-800/40 rounded-xl border border-slate-700/50">
               <span className="text-2xl font-black text-white">{complaints.length}</span>

@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-8 h-8 rounded-lg bg-blue-600 text-white flex items-center justify-center">
                 <ShieldAlert className="w-4 h-4" />
               </div>
-              <span className="font-bold text-white text-lg tracking-tight">CivicPulse AI</span>
+              <span className="font-bold text-white text-lg tracking-tight">CivicSense AI</span>
             </div>
             <p className="text-xs text-slate-400 max-w-md leading-relaxed">
               AI-Powered Civic Complaint Management and Resolution Platform. Designed for municipal corporations to streamline citizen grievances through Gemini AI image analysis, GPS tracking, duplicate suppression, and automated departmental routing.
@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
-          <p>© {new Date().getFullYear()} CivicPulse AI. All Municipal Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} CivicSense. All Municipal Rights Reserved.</p>
           <p className="flex items-center gap-1 mt-2 sm:mt-0">
             Empowering Smart Cities with AI & Active Citizen Participation
           </p>

@@ -43,7 +43,6 @@ export default function AdminLogin() {
           <ShieldCheck className="w-6 h-6" />
         </div>
         <h2 className="text-2xl font-black text-slate-900 tracking-tight">Municipal Admin Login</h2>
-        <p className="text-xs text-slate-500">Module 4: Authorized Municipal Grievance Cell</p>
       </div>
 
       {error && (
@@ -52,7 +51,6 @@ export default function AdminLogin() {
         </div>
       )}
 
-      {/* Quick Demo Autofill */}
       <div className="p-3 bg-emerald-50/60 border border-emerald-200 rounded-xl space-y-1.5">
         <div className="flex items-center justify-between text-[11px] font-bold text-emerald-900">
           <span>Admin Evaluation Credentials:</span>
