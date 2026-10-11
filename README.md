@@ -9,7 +9,7 @@
 
 Rapid urbanization has exacerbated civic infrastructure issues such as potholes, garbage accumulation, malfunctioning streetlights, and clogged drainage networks. Traditional municipal grievance systems suffer from manual classification overhead, lack of geographic verification, citizen apathy, and redundant duplicate complaints.
 
-**CivicPulse AI** is a full-stack municipal civic complaint management and resolution platform. It bridges citizens and city administrators through automated **Google Gemini AI Vision analysis**, browser-based **GPS geolocation**, mathematical **duplicate detection (Haversine distance)**, **automated departmental routing**, **in-app notification dispatches**, and a **civic gamification reward points model**.
+**CivicSense** is a full-stack municipal civic complaint management and resolution platform. It bridges citizens and city administrators through automated **Google Gemini AI Vision analysis**, browser-based **GPS geolocation**, mathematical **duplicate detection (Haversine distance)**, **automated departmental routing**, **in-app notification dispatches**, and a **civic gamification reward points model**.
 
 ---
 
